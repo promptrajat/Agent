@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+python-dotenv
+langchain_mcp_adapters
+google-genai
+streamlit
+langchain-google-vertexai
+langchain-openai
+langgraph
+langgraph-checkpoint-sqlite
